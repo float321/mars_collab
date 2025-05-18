@@ -9,7 +9,7 @@
         "name": "Мария",
         "surname": "Яндексовна",
         "photo": "/static/images/mars2.jpg",
-        "specialties": ["биолог", "медик"]
+        "specialties": ["медик", "биолог"]
     },
     {
         "name": "Алексей",
