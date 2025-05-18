@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Иван",
+        "surname": "Иванов",
+        "photo": "/static/images/mars1.jpg",
+        "specialties": ["инженер", "программист"]
+    },
+    {
+        "name": "Мария",
+        "surname": "Яндексовна",
+        "photo": "/static/images/mars2.jpg",
+        "specialties": ["биолог", "медик"]
+    },
+    {
+        "name": "Алексей",
+        "surname": "Лмсников",
+        "photo": "/static/images/mars3.jpg",
+        "specialties": ["пилот", "навигатор"]
+    }
+]
